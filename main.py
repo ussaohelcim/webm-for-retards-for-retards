@@ -12,7 +12,6 @@ def GetUnixTime():
 root = Tk()
 
 root.title("webm for retards for retards")
-root.iconbitmap("./icon.ico")
 root.geometry("640x40")
 
 txt = Label(root, text="Just wait a little, maybe your video will be converted.").pack()
