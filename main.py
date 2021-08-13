@@ -22,4 +22,4 @@ pathVideo = filedialog.askopenfilename(
 	filetypes=(("videos files","*.mp4"),("other","*.avi"),("everything","*"))
 	)
 
-a = subprocess.run('ffmpeg -t 00:01:29 -i "'+pathVideo+'" -an '+GetUnixTime()+".webm -y ")
+a = subprocess.run('ffmpeg -t 00:01:29 -i "'+pathVideo+'" -vcodec vp8 -an '+GetUnixTime()+".webm -y ")
