@@ -3,9 +3,9 @@ Simple as fuck ffmpeg wrapper for 4chan webm video upload.
 
 # How to use
 
-Click [here](https://github.com/ussaohelcim/webm-for-retards-for-retards/releases/download/v0.1/webm-for-retards-for-retards.win64.zip) to download.
+Click [here](https://github.com/ussaohelcim/webm-for-retards-for-retards/releases/download/v0.2/webm-for-retards-for-retards.zip) to download.
 
-Or goto: https://github.com/ussaohelcim/webm-for-retards-for-retards/releases/download/v0.1/webm-for-retards-for-retards.win64.zip
+Or goto: https://github.com/ussaohelcim/webm-for-retards-for-retards/releases/download/v0.2/webm-for-retards-for-retards.zip
 
 - open the program
 - select the video
