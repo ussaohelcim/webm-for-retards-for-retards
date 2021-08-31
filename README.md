@@ -14,6 +14,14 @@ Or goto: https://github.com/ussaohelcim/webm-for-retards-for-retards/releases/do
 - the webm will be avaiable in the same directory as this program
 - the output will be a webm without audio and 1 minute and 29 seconds maximun lenght
 
+# Using script only
+
+Just run the script at the same directory as your ffmpeg.
+
+```python
+python3 main.py
+```
+
 # Build
 
 You can also build by yourself with pyinstaller.
