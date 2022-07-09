@@ -1,6 +1,8 @@
 # webm-for-retards-for-retards
 Simple as fuck ffmpeg wrapper for 4chan webm video upload.
 
+This one is better: https://github.com/ussaohelcim/restricted-webm-for-retards
+
 # How to use
 
 Click [here](https://github.com/ussaohelcim/webm-for-retards-for-retards/releases/download/v0.2/webm-for-retards-for-retards.zip) to download.
